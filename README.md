@@ -1,2 +1,2 @@
 # university-manager
-Mock university website for students and employees
+Mock university website for list of students 
